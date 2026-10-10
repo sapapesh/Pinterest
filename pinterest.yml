@@ -1,0 +1,41 @@
+name: Pinterest autopilot
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # every 30 minutes (GitHub may run it a few minutes late)
+  workflow_dispatch: {}        # lets you press "Run workflow" by hand
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pinterest-autopilot
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Fill the queue and post anything that is due
+        env:
+          PINTEREST_ACCESS_TOKEN: ${{ secrets.PINTEREST_ACCESS_TOKEN }}
+          PINTEREST_REFRESH_TOKEN: ${{ secrets.PINTEREST_REFRESH_TOKEN }}
+          PINTEREST_APP_ID: ${{ secrets.PINTEREST_APP_ID }}
+          PINTEREST_APP_SECRET: ${{ secrets.PINTEREST_APP_SECRET }}
+          PINTEREST_API_BASE: ${{ vars.PINTEREST_API_BASE }}
+        run: python -m pinbot ci
+      - name: Save queue state
+        run: |
+          if [ -n "$(git status --porcelain state/queue.json)" ]; then
+            git config user.name "pinterest-autopilot"
+            git config user.email "actions@users.noreply.github.com"
+            git add state/queue.json
+            git commit -m "Update pin queue"
+            git push
+          fi

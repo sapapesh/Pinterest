@@ -1,0 +1,72 @@
+{
+  "timezone": "America/Chicago",
+  "pins_per_day": 4,
+  "warmup_days": 7,
+  "warmup_pins_per_day": 2,
+  "post_slots_priority": [
+    "20:05",
+    "12:20",
+    "21:40",
+    "08:15",
+    "15:35"
+  ],
+  "slot_jitter_minutes": 12,
+  "horizon_days": 30,
+  "seasonal_lead_days": 55,
+  "seasonal_boost": 2.5,
+  "new_title_days": 21,
+  "new_title_boost": 8.0,
+  "book_cooldown_days": 2,
+  "image_cooldown_days": 21,
+  "seed": 7,
+  "category_weights": {
+    "logic": 1.0,
+    "mandala": 1.0,
+    "journal": 1.0,
+    "mystery": 1.0,
+    "wordsearch": 0.6
+  },
+  "boards": {
+    "logic": "Logic Puzzle Books for Adults",
+    "mandala": "Mandala Coloring Books",
+    "journal": "Caregiver Journals and Support",
+    "mystery": "Cozy Sudoku Mystery Books",
+    "wordsearch": "Large Print Word Search Books"
+  },
+  "board_ids": {},
+  "text_versions": 2,
+  "variants": [
+    "hero",
+    "benefit",
+    "teaser",
+    "quote"
+  ],
+  "max_posts_per_run": 3,
+  "max_late_hours": 12,
+  "bulk_horizon_days": 30,
+  "bulk_rows_per_file": 200,
+  "media_base_url": "",
+  "fonts": {
+    "serif": [
+      "fonts/serif-bold.ttf",
+      "/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf",
+      "/System/Library/Fonts/Supplemental/Georgia Bold.ttf",
+      "C:/Windows/Fonts/georgiab.ttf"
+    ],
+    "sans": [
+      "fonts/sans-bold.ttf",
+      "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
+      "/System/Library/Fonts/Supplemental/Arial Bold.ttf",
+      "C:/Windows/Fonts/arialbd.ttf"
+    ],
+    "sans_regular": [
+      "fonts/sans-regular.ttf",
+      "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
+      "/System/Library/Fonts/Supplemental/Arial.ttf",
+      "C:/Windows/Fonts/arial.ttf"
+    ]
+  },
+  "teaser_needs_sample": [
+    "journal"
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "cta": [
+    "Find it on Amazon",
+    "Shop on Amazon",
+    "See it on Amazon",
+    "Available on Amazon"
+  ],
+  "categories": {
+    "logic": {
+      "label": "Logic Puzzle Book",
+      "kicker": "LOGIC PUZZLE BOOK",
+      "default_tagline": "A relaxing, screen-free way to give your brain a workout.",
+      "default_keywords": [
+        "logic puzzle books for adults",
+        "brain games",
+        "puzzle gifts"
+      ],
+      "titles": [
+        "{kw1} | {title}",
+        "{title} | {kw2}",
+        "Screen-Free Brain Workout | {title}",
+        "{kw3} | {title}",
+        "Relaxing Puzzle Time | {title}",
+        "Gift for Puzzle Lovers | {title}"
+      ],
+      "descriptions": [
+        "{title} is a screen-free way to challenge your mind and unwind. {tagline} Find it on Amazon.",
+        "Give your brain a fun workout. {tagline} Grab {title} on Amazon.",
+        "A great gift for a puzzle lover. {tagline} {title} is available now on Amazon.",
+        "Slow down, sit back, and solve. {tagline} {title} is available on Amazon.",
+        "Keep your mind engaged. {tagline} Tap to see {title} on Amazon."
+      ],
+      "headlines": [
+        "Your new favorite brain workout",
+        "Puzzles that make quiet evenings better",
+        "Screen-free fun for sharp minds",
+        "Solve one. Then another.",
+        "The puzzle book you won't put down",
+        "Challenge your mind, relax your evening"
+      ],
+      "bullets": [
+        "Screen-free and relaxing",
+        "Satisfying, fun challenges",
+        "Perfect for quiet evenings",
+        "A thoughtful gift idea",
+        "Easy to pick up, hard to put down",
+        "Great for puzzle lovers"
+      ],
+      "quotes": [
+        "Every puzzle is a small victory.",
+        "Unplug. Unwind. Solve.",
+        "Give your brain something fun to do.",
+        "Slow evenings, sharp minds.",
+        "Think. Solve. Smile.",
+        "Make room for a little challenge."
+      ],
+      "teaser_heads": [
+        "Puzzles in this style",
+        "Ready to solve?",
+        "Grab a pencil",
+        "Your next puzzle awaits"
+      ],
+      "sample_heads": [
+        "A peek at the puzzles inside",
+        "Take a look inside"
+      ]
+    },
+    "mandala": {
+      "label": "Mandala Coloring Book",
+      "kicker": "MANDALA COLORING BOOK",
+      "default_tagline": "Fine-detail designs for quiet, creative moments.",
+      "default_keywords": [
+        "mandala coloring book for adults",
+        "stress relief coloring",
+        "relaxing coloring book"
+      ],
+      "titles": [
+        "{kw1} | {title}",
+        "{title} | Relaxing Coloring Pages",
+        "Color Your Stress Away | {title}",
+        "{kw2} | {title}",
+        "Coloring Gift Idea | {title}",
+        "{kw3} | {title}"
+      ],
+      "descriptions": [
+        "Unwind with a stack of mandalas to color. {tagline} {title} is available on Amazon.",
+        "Grab your colored pencils and settle in. {tagline} Find {title} on Amazon.",
+        "A thoughtful gift for anyone who loves to color. {tagline} Available on Amazon.",
+        "A cozy, screen-free hobby for quiet evenings. {tagline} See {title} on Amazon.",
+        "Take a quiet moment for yourself. {tagline} {title} is on Amazon."
+      ],
+      "headlines": [
+        "Color your way to calm",
+        "A quiet moment, one mandala at a time",
+        "Pencils down? Not yet.",
+        "Relax with every stroke",
+        "Your cozy coloring hour",
+        "Calm, colorful, creative"
+      ],
+      "bullets": [
+        "Fine-detail designs to color",
+        "Relaxing, screen-free creativity",
+        "A saying with every mandala",
+        "Great for quiet evenings",
+        "A thoughtful gift idea",
+        "Perfect for coloring pencils"
+      ],
+      "quotes": [
+        "Color slowly. Breathe deeply.",
+        "Peace, one petal at a time.",
+        "Make a little room for calm.",
+        "Be gentle with yourself today.",
+        "Create. Relax. Repeat.",
+        "Every color is a small comfort."
+      ],
+      "teaser_heads": [
+        "Color pages like this",
+        "Grab your pencils",
+        "Fine-detail mandalas to color"
+      ],
+      "sample_heads": [
+        "A peek inside",
+        "Take a look inside"
+      ]
+    },
+    "journal": {
+      "label": "Caregiver Journal",
+      "kicker": "CAREGIVER JOURNAL",
+      "default_tagline": "Simple pages to keep the important details in one place.",
+      "default_keywords": [
+        "caregiver journal",
+        "caregiver gift",
+        "care tracker"
+      ],
+      "titles": [
+        "{kw1} | {title}",
+        "{title} | Support for Caregivers",
+        "A Gentle Organizer for Caregivers | {title}",
+        "Thoughtful Gift for Caregivers | {title}",
+        "{kw2} | {title}",
+        "Keep Track of Care | {title}"
+      ],
+      "descriptions": [
+        "Caregiving is a lot to carry. {tagline} {title} helps you keep the details in one place. Find it on Amazon.",
+        "{tagline} {title} is available on Amazon.",
+        "A thoughtful gift for someone who gives so much of themselves. {tagline} See {title} on Amazon.",
+        "Stay organized and take a moment for yourself. {tagline} {title} is on Amazon.",
+        "Keep notes and routines together in one spot. {tagline} Available on Amazon."
+      ],
+      "headlines": [
+        "Caregiving is a lot. Keep it organized.",
+        "One place for the details that matter",
+        "A caregiver's quiet companion",
+        "Less juggling, more breathing room",
+        "Because caregivers need support too"
+      ],
+      "bullets": [
+        "Track routines and notes in one place",
+        "Simple, easy-to-fill pages",
+        "Space for your own check-ins",
+        "A thoughtful gift for a caregiver",
+        "Easy to bring along",
+        "Gentle encouragement inside"
+      ],
+      "quotes": [
+        "You are doing more than you know.",
+        "Caring for others starts with caring for you.",
+        "Small steps still count.",
+        "It's okay to ask for help.",
+        "You are not alone in this.",
+        "Rest is part of caring."
+      ],
+      "teaser_heads": [
+        "Keep it all in one place",
+        "Simple pages for busy days"
+      ],
+      "sample_heads": [
+        "A look at the pages inside",
+        "Take a look inside"
+      ]
+    },
+    "mystery": {
+      "label": "Sudoku Mystery Book",
+      "kicker": "SUDOKU MYSTERY BOOK",
+      "default_tagline": "A cozy mystery told chapter by chapter, with sudoku puzzles on every puzzle page.",
+      "default_keywords": [
+        "sudoku mystery book",
+        "cozy mystery puzzle book",
+        "sudoku books for adults"
+      ],
+      "titles": [
+        "{kw1} | {title}",
+        "A Cozy Mystery and Sudoku in One Book | {title}",
+        "Solve the Mystery, One Day at a Time | {title}",
+        "{title} | {kw2}",
+        "Gift for Sudoku and Mystery Lovers | {title}",
+        "{kw3} | {title}"
+      ],
+      "descriptions": [
+        "A mystery and a pencil make a perfect evening. {tagline} {title} is available on Amazon.",
+        "Read a chapter, solve the puzzles, follow the story. {tagline} Find {title} on Amazon.",
+        "Curl up with a mystery and a pencil. {tagline} See it on Amazon.",
+        "A fun gift for sudoku and mystery lovers. {tagline} {title} is on Amazon.",
+        "Looking for a cozy, screen-free read-and-solve book? {tagline} Tap to see {title} on Amazon."
+      ],
+      "headlines": [
+        "Read a chapter. Solve the puzzles. Follow the story.",
+        "A cozy mystery with sudoku in every chapter",
+        "Your daily dose of mystery and puzzles",
+        "Curl up with a mystery and a pencil",
+        "Who did it? Keep solving to find out"
+      ],
+      "bullets": [
+        "A story chapter paired with sudoku",
+        "Puzzles that build in difficulty",
+        "A cozy mystery for puzzle lovers",
+        "Screen-free evening entertainment",
+        "A fun gift for sudoku fans",
+        "Answer key included"
+      ],
+      "quotes": [
+        "One chapter. One puzzle. One step closer.",
+        "Curl up with a good mystery.",
+        "Some cases take a little patience.",
+        "Every puzzle moves the story along.",
+        "Pencil ready? The case is waiting.",
+        "A little mystery makes the evening."
+      ],
+      "teaser_heads": [
+        "Pencil ready?",
+        "Sudoku and a story"
+      ],
+      "sample_heads": [
+        "A peek at the puzzle pages",
+        "Take a look inside"
+      ]
+    },
+    "wordsearch": {
+      "label": "Large Print Word Search",
+      "kicker": "LARGE PRINT WORD SEARCH",
+      "default_tagline": "Large print puzzles in easy, medium and hard levels, with fun facts and cheerful thoughts.",
+      "default_keywords": [
+        "large print word search",
+        "holiday puzzle book",
+        "word search for adults"
+      ],
+      "titles": [
+        "{kw1} | {title}",
+        "{title} | Large Print for Easy Reading",
+        "{kw2} | {title}",
+        "Great Gift Idea | {title}",
+        "Cozy Puzzle Time | {title}",
+        "{kw3} | {title}"
+      ],
+      "descriptions": [
+        "Easy on the eyes and big on fun. {tagline} {title} is available on Amazon.",
+        "Cozy up with a pencil and a puzzle. {tagline} Find {title} on Amazon.",
+        "A thoughtful gift for anyone who enjoys a good word search. {tagline} See it on Amazon.",
+        "A relaxing, screen-free way to enjoy the season. {tagline} {title} is on Amazon.",
+        "Find the words, find the fun. {tagline} Available on Amazon."
+      ],
+      "headlines": [
+        "Large print fun for the whole season",
+        "Find the words. Find the fun.",
+        "Cozy up with a word search",
+        "Easy on the eyes, big on fun",
+        "A holiday tradition for puzzle lovers"
+      ],
+      "bullets": [
+        "Large print, easy on the eyes",
+        "Easy, medium and hard puzzles",
+        "Fun facts and cheerful thoughts",
+        "A great gift idea",
+        "Relaxing screen-free fun",
+        "Answer key included"
+      ],
+      "quotes": [
+        "Find the words. Find the joy.",
+        "Cozy. Festive. Fun.",
+        "Relax, search, and smile.",
+        "A little puzzle, a lot of cheer.",
+        "Pencil, tea, and a word search.",
+        "Small joys, big print."
+      ],
+      "teaser_heads": [
+        "Can you find them all?",
+        "Grab a pencil"
+      ],
+      "sample_heads": [
+        "Large print puzzles inside",
+        "Take a look inside"
+      ]
+    }
+  }
+}
