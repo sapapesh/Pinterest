@@ -45,7 +45,7 @@
   "max_late_hours": 12,
   "bulk_horizon_days": 30,
   "bulk_rows_per_file": 200,
-  "media_base_url": "",
+  "media_base_url": "https://raw.githubusercontent.com/sapapesh/Pinterest/main/public",
   "fonts": {
     "serif": [
       "fonts/serif-bold.ttf",
