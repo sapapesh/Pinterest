@@ -1,0 +1,56 @@
+{
+ "travel": {
+  "label": "Travel Journal",
+  "kicker": "SOLO TRAVEL JOURNAL",
+  "default_tagline": "Plan every trip, travel safe, and keep your memories in one place.",
+  "default_keywords": [
+   "solo female travel planner",
+   "travel journal for women",
+   "solo travel journal"
+  ],
+  "titles": [
+   "{kw1} | {title}",
+   "Solo Travel Safety Checklist + Trip Planner for Women",
+   "Travel Journal for Women | Plan, Pack & Remember Every Trip",
+   "Gift for the Woman Who Travels Solo | {title}",
+   "{kw2} | {title}",
+   "Safety Check-In Pages for Solo Female Travelers"
+  ],
+  "descriptions": [
+   "Planning a trip on your own? {tagline} {title} is available on Amazon.",
+   "Plan it, pack it, travel safe. {tagline} Find it on Amazon.",
+   "A thoughtful gift for the woman who loves to wander. {tagline} See {title} on Amazon.",
+   "Itineraries, packing lists, budget pages and safety check-ins. {tagline} Available on Amazon.",
+   "Go alone. Come back with stories only you can tell. {tagline} Shop on Amazon."
+  ],
+  "headlines": [
+   "Plan it. Pack it.\nTravel safe.",
+   "Your solo adventures,\nall in one place",
+   "Travel solo,\nwith a plan",
+   "Ready when\nthe road calls",
+   "One book for\nevery trip"
+  ],
+  "bullets": [
+   "5 undated trips in one book",
+   "Safety checklists & check-ins",
+   "Daily plans for up to 14 days",
+   "Budget & packing pages",
+   "Local phrases for your trips",
+   "7x10 size fits your carry-on"
+  ],
+  "quotes": [
+   "Go alone.\nCome back with\nstories only\nyou can tell.",
+   "The world\nis waiting.\nPack a plan\nand go.",
+   "Travel solo,\nwith a plan\nin your bag.",
+   "Your next\nadventure starts\nwith a plan."
+  ],
+  "teaser_heads": [
+   "Plan every trip in one place",
+   "Pages made for solo travel"
+  ],
+  "sample_heads": [
+   "A look at the pages inside",
+   "Take a look inside"
+  ]
+ }
+}
